@@ -1,2 +1,7 @@
-Test2
+test2
 modyfikacja z test_branch
+=======
+test2
+modyfikacja z test_branch
+added line
+>>>>>>> test

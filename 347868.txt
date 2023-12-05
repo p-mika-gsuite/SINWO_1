@@ -1,3 +1,2 @@
 test2
 modyfikacja z test_branch
-zmiana z 1 katalogu
